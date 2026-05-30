@@ -4,4 +4,5 @@ I am new at this :D
 *italicize* \
 ** bup bup ** \
 ***this is kinda like Discord*** \
-* bullet point?
+* bullet point? \
+I made a new branch! :3
