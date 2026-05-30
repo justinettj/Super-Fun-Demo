@@ -5,5 +5,6 @@ I am new at this :D
 ** bup bup ** \
 ***this is kinda like Discord*** \
 * bullet point? \
-I made a new branch! :3
-Bonjour j m'appelle Justine ^^
+I made a new branch! :3 \
+Bonjour j m'appelle Justine ^^ \
+Hellooooo the weather is nice today
