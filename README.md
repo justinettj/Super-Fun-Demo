@@ -3,4 +3,4 @@ I am new at this :D
 **bolded text** \
 *italicize* \
 ** bup bup ** \
-***this is kinda like Discord, bullet point*** 
+***this is kinda like Discord*** 
